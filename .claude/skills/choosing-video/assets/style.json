@@ -1,0 +1,81 @@
+{
+  "grade": "Original source colours; no creative grade. Existing HDR-to-SDR technical conversions retained.",
+  "yellow": 0,
+  "orange": 0,
+  "black_point": 0,
+  "sharpen_percent": 0,
+  "headline_font": "Playfair Display",
+  "headline_weight": 600,
+  "headline_rule": "White Playfair Display semibold. So/pick/one share a centred left stack with measured line gaps; supporting dream/chapter/life lines share the dream centre.",
+  "body_face": "Helvetica Neue Medium",
+  "body_size": 51,
+  "lettering_rgb": [
+    254,
+    249,
+    211
+  ],
+  "caption_placement": "Stable baseline at967px and fixed left/center/right anchors143/960/1760. Phrase anchors stay fixed during word reveals.",
+  "column_x": [
+    143,
+    960,
+    1760
+  ],
+  "body_tracking_px": -0.752,
+  "chapter_support_placement": "Existing lower-right heading fragments, now white Playfair Display.",
+  "caption_alignment": [
+    "left",
+    "center",
+    "right"
+  ],
+  "caption_shadow": "No outline. Soft black shadow alpha55, offset1.5px and blur1.5px at1080p.",
+  "headline_rgb": [
+    255,
+    255,
+    255
+  ],
+  "caption_baseline_px": 967,
+  "headline_layer": "All enlarged heading text behind the foreground subject matte.",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "body_font": "Helvetica Neue Medium, TTC face index 10 on the reference Mac",
+  "music": "Use the locally retained opening and brighter stems when reproducing the saved edit. For new speech, keep voice dominant and retime the transition to the turning point.",
+  "audio": {
+    "sample_rate": 48000,
+    "channels": 2,
+    "target_lufs": -15.1,
+    "true_peak_ceiling_dbtp": -1.5,
+    "reference_opening_music_to_voice_rms_ratio": 0.2448463086,
+    "opening_fade_out_seconds": [
+      18.4666666667,
+      20.8666666667
+    ],
+    "brighter_fade_in_seconds": [
+      20.8666666667,
+      23.3666666667
+    ],
+    "note": "The RMS ratio is a measured reference balance, not a volume-slider percentage. Do not apply it blindly to different stems."
+  },
+  "export": {
+    "preview": [
+      960,
+      540
+    ],
+    "master": [
+      3840,
+      2160
+    ],
+    "fps": 30,
+    "mp4": "H.264 CRF12, yuv420p, AAC320k; Rec.709",
+    "editing_master": "ProRes 422 HQ, yuv422p10le, PCM24; Rec.709"
+  },
+  "broll": {
+    "full_screen": false,
+    "audio": "muted",
+    "edge_fade_frames": 3,
+    "timing": "Anchor card entrances to spoken words, preserving approved slots and sizes."
+  },
+  "ending_fade_frames": 8
+}
