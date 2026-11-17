@@ -1,0 +1,4 @@
+interface:
+  display_name: "Choosing Video"
+  short_description: "Landscape edit with Playfair titles behind you"
+  default_prompt: "Use $choosing-video to edit my footage in the saved landscape style, with Playfair headings behind me, pale-yellow subtitles and floating B-roll cards."

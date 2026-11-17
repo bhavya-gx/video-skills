@@ -1,0 +1,110 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "units": "design pixels; multiply by output width / 1920",
+  "families": {
+    "five_cards": [
+      {
+        "slot": 0,
+        "x": 111,
+        "y": 531,
+        "width": 208,
+        "height": 368
+      },
+      {
+        "slot": 1,
+        "x": 322,
+        "y": 268,
+        "width": 197,
+        "height": 350
+      },
+      {
+        "slot": 2,
+        "x": 1092,
+        "y": 92,
+        "width": 197,
+        "height": 350
+      },
+      {
+        "slot": 3,
+        "x": 1314,
+        "y": 340,
+        "width": 197,
+        "height": 351
+      },
+      {
+        "slot": 4,
+        "x": 1542,
+        "y": 540,
+        "width": 197,
+        "height": 351
+      }
+    ],
+    "three_portraits": [
+      {
+        "slot": 0,
+        "x": 181,
+        "y": 138,
+        "width": 290,
+        "height": 514
+      },
+      {
+        "slot": 1,
+        "x": 1267,
+        "y": 165,
+        "width": 217,
+        "height": 386
+      },
+      {
+        "slot": 2,
+        "x": 1502,
+        "y": 453,
+        "width": 217,
+        "height": 384
+      }
+    ],
+    "three_landscapes": [
+      {
+        "slot": 0,
+        "x": 102,
+        "y": 372,
+        "width": 385,
+        "height": 216
+      },
+      {
+        "slot": 1,
+        "x": 1180,
+        "y": 254,
+        "width": 460,
+        "height": 260
+      },
+      {
+        "slot": 2,
+        "x": 1398,
+        "y": 570,
+        "width": 384,
+        "height": 216
+      }
+    ],
+    "single_card": [
+      {
+        "slot": 0,
+        "x": 1392,
+        "y": 194,
+        "width": 254,
+        "height": 582
+      }
+    ],
+    "two_cards": [
+      {
+        "slot": 1,
+        "x": 102,
+        "y": 372,
+        "width": 385,
+        "height": 216
+      }
+    ]
+  }
+}

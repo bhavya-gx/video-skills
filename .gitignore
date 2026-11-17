@@ -4,6 +4,9 @@
 .venv/
 input/
 references/
+# Skill documentation is source, not downloaded reference media.
+!.agents/skills/choosing-video/references/
+!.claude/skills/choosing-video/references/
 output/
 work/
 __pycache__/

@@ -32,6 +32,19 @@ Local template assets: [FOLDER WITH title.png AND audio.m4a]
 
 The exact lettering and audio stay in your local asset folder; public copies contain the style settings and renderer. An installed personal skill can keep the assets beside its settings. The [composition diagram](assets/previews/pale-yellow-reel-layout.png) illustrates the layout without using personal footage. This skill has its own render command and does not change the editor's three talking-head templates.
 
+## Choosing Video skill
+
+Use [choosing-video](.agents/skills/choosing-video/SKILL.md) for the saved **16:9 landscape** edit: white Playfair Display headings behind the speaker, pale-yellow bottom subtitles, floating B-roll cards, original camera colours and a gentle transition to brighter music. It includes measured layouts, an adaptable compositor, 960×540 previews and native-source 4K exports, with optional ProRes 422 HQ masters.
+
+```text
+Use the choosing-video skill to edit my footage in the saved landscape style.
+Talking footage: [PATH]
+B-roll: [FOLDER]
+Local saved project or music stems: [PATH, IF AVAILABLE]
+```
+
+This standalone skill does not change the three portrait templates in the browser editor. Its renderer takes a prepared assembly, aligned subject matte, word-timed captions, cards and mixed audio; the skill guides that preparation. See the [project format](.agents/skills/choosing-video/references/project-format.md). The public package includes the Playfair OFL font, code and geometry. Personal footage, music and exact saved project stay local; Helvetica Neue requires a licensed local font.
+
 ## Script from a reel that already works
 
 Before you record, hand the assistant a reel you admire and your own facts:
@@ -125,6 +138,6 @@ Version 0.2.0 is a tested starter, not a general timeline editor. [Test evidence
 
 ## License and credits
 
-Original code, docs, icons, and demo artwork are MIT licensed. Inter Tight and Instrument Serif keep their SIL Open Font Licenses. Dependencies and downloaded models keep their own licenses, listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No personal footage, proprietary fonts, or other creators' reference videos are included.
+Original code, docs, icons, and demo artwork are MIT licensed. Inter Tight, Instrument Serif and Playfair Display keep their SIL Open Font Licenses. Dependencies and downloaded models keep their own licenses, listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No personal footage, proprietary fonts, or other creators' reference videos are included.
 
 This is an independent community workflow. GPT-6 Astra and Codex are OpenAI products; see [OpenAI's model documentation](https://learn.chatgpt.com/docs/models) for availability.
