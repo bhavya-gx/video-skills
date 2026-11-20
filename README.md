@@ -45,6 +45,22 @@ Local saved project or music stems: [PATH, IF AVAILABLE]
 
 This standalone skill does not change the three portrait templates in the browser editor. Its renderer takes a prepared assembly, aligned subject matte, word-timed captions, cards and mixed audio; the skill guides that preparation. See the [project format](.agents/skills/choosing-video/references/project-format.md). The public package includes the Playfair OFL font, code and geometry. Personal footage, music and exact saved project stay local; Helvetica Neue requires a licensed local font.
 
+## Warm Vlog Intro skill
+
+Use [warm-vlog-intro](.agents/skills/warm-vlog-intro/SKILL.md) for a **four-second, 16:9** intro: a centered person cutout in front of changing “vlog” type, a fast montage strip that expands to fill the frame, and a warm grade across the full composition. Fonts change every 0.3 seconds. It includes editable source selects, local matte preparation, 1280×720 previews and 4K MP4/ProRes 4444 XQ exports.
+
+![Warm Vlog Intro layout](assets/previews/warm-vlog-intro-layout.png)
+
+```text
+Use the warm-vlog-intro skill to make my four-second YouTube intro.
+Foreground: [VIDEO PATH AND FOUR-SECOND SELECT]
+Background footage: [CLIPS OR FOLDER]
+Music: [FOUR-SECOND STEREO 48 KHZ MIX]
+Local model and licensed fonts: [PATHS]
+```
+
+Create the project in `.local/` and fill in its source paths before preparing media. The public package includes the design settings, renderer, preparation helpers and OFL Playfair font. Supply your own footage, music, MODNet model and licensed Didot/Helvetica Neue fonts. See the [project controls](.agents/skills/warm-vlog-intro/references/project.md) and install `requirements-portrait.txt` for NumPy and optional matte inference. This standalone skill has matching Codex and Claude Code packages.
+
 ## Script from a reel that already works
 
 Before you record, hand the assistant a reel you admire and your own facts:

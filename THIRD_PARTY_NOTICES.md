@@ -7,7 +7,7 @@ The MIT license in this repository covers the original toolkit code, documentati
 - **Inter Tight**, unmodified font file: Google Fonts / Inter Project Authors. SIL OFL 1.1; see `assets/fonts/InterTight-OFL.txt`. Upstream: https://github.com/google/fonts/tree/main/ofl/intertight
 - **Instrument Serif**, unmodified font file: Instrument Serif Project Authors. SIL OFL 1.1; see `assets/fonts/InstrumentSerif-OFL.txt`. Upstream: https://github.com/google/fonts/tree/main/ofl/instrumentserif
 
-The Choosing Video skill includes **Playfair Display**, an unmodified variable font by the Playfair Display Project Authors, under SIL OFL 1.1. Its font and license are in `.agents/skills/choosing-video/assets/` and the identical `.claude/` package. Upstream: https://github.com/clauseggers/Playfair-Display . Helvetica Neue is not bundled and requires a licensed local copy.
+The Choosing Video and Warm Vlog Intro skills include **Playfair Display**, an unmodified variable font by the Playfair Display Project Authors, under SIL OFL 1.1. The font and license are retained in each skill’s assets (under `assets/project/fonts/` for Warm Vlog Intro) and in the identical `.claude/` packages. Upstream: https://github.com/clauseggers/Playfair-Display . Didot and Helvetica Neue are not bundled and require licensed local copies.
 
 ## Dependencies installed separately
 

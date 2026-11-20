@@ -1,0 +1,10 @@
+[
+  {
+    "source": "input/foreground.mov",
+    "in": 0.0,
+    "source_duration": 4.0,
+    "mirror": false,
+    "folder": "media/foreground",
+    "prepared_for": null
+  }
+]

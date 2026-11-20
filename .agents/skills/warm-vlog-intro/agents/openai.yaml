@@ -1,0 +1,4 @@
+interface:
+  display_name: "Warm Vlog Intro"
+  short_description: "Four-second cutout intro with warm, changing VLOG type"
+  default_prompt: "Use $warm-vlog-intro to make a four-second intro with my new clips."

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "background-01",
+    "input": "input/background-01.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-01",
+    "prepared_for": null
+  },
+  {
+    "id": "background-02",
+    "input": "input/background-02.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-02",
+    "prepared_for": null
+  },
+  {
+    "id": "background-03",
+    "input": "input/background-03.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-03",
+    "prepared_for": null
+  },
+  {
+    "id": "background-04",
+    "input": "input/background-04.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-04",
+    "prepared_for": null
+  },
+  {
+    "id": "background-05",
+    "input": "input/background-05.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-05",
+    "prepared_for": null
+  },
+  {
+    "id": "background-06",
+    "input": "input/background-06.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-06",
+    "prepared_for": null
+  },
+  {
+    "id": "background-07",
+    "input": "input/background-07.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-07",
+    "prepared_for": null
+  },
+  {
+    "id": "background-08",
+    "input": "input/background-08.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-08",
+    "prepared_for": null
+  },
+  {
+    "id": "background-09",
+    "input": "input/background-09.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-09",
+    "prepared_for": null
+  },
+  {
+    "id": "background-10",
+    "input": "input/background-10.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-10",
+    "prepared_for": null
+  },
+  {
+    "id": "background-11",
+    "input": "input/background-11.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-11",
+    "prepared_for": null
+  },
+  {
+    "id": "background-12",
+    "input": "input/background-12.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-12",
+    "prepared_for": null
+  },
+  {
+    "id": "background-13",
+    "input": "input/background-13.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-13",
+    "prepared_for": null
+  },
+  {
+    "id": "background-14",
+    "input": "input/background-14.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-14",
+    "prepared_for": null
+  },
+  {
+    "id": "background-15",
+    "input": "input/background-15.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-15",
+    "prepared_for": null
+  },
+  {
+    "id": "background-16",
+    "input": "input/background-16.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-16",
+    "prepared_for": null
+  },
+  {
+    "id": "background-17",
+    "input": "input/background-17.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-17",
+    "prepared_for": null
+  },
+  {
+    "id": "background-18",
+    "input": "input/background-18.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-18",
+    "prepared_for": null
+  },
+  {
+    "id": "background-19",
+    "input": "input/background-19.mp4",
+    "source_in": 0.0,
+    "frames": 6,
+    "mirror": false,
+    "folder": "media/background-19",
+    "prepared_for": null
+  }
+]
